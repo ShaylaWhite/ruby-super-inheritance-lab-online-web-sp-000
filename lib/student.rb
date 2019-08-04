@@ -8,6 +8,7 @@ class Student
   end
   
   def hello
+    super
     puts "Hey there! I'm so excited to learn stuff."
   end
   
